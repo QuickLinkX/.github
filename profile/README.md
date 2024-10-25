@@ -12,5 +12,5 @@ Sakura~
 
 # Join
 Tencent Group: 980562548  
-Mail: dr@der.kim
+Mail: [dr@der.kim](mail://dr@der.kim)  
 Discord: [Join](https://discord.gg/vzxN35kK8V)  
