@@ -9,3 +9,8 @@
 # 
 Sakura~  
 ~~同时也是最可爱的~~
+
+# Join
+Tencent Group: 980562548  
+Mail: dr@der.kim
+Discord: [Join](https://discord.gg/vzxN35kK8V)  
