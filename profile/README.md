@@ -1,16 +1,15 @@
 # QuickLinkX
-欢迎来到 QuickLinkX Group，我们的使命是为玩家提供快速、可靠、流畅的连接，确保您的游戏体验无与伦比。  
+Welcome to QuickLinkX Group, our mission is to provide gamers with fast, reliable and smooth connections to ensure your gaming experience is unrivaled. 
 
+We are committed to exploring and applying cutting-edge technologies, promoting the practical implementation of new technologies and opening up more possibilities.  
+At the same time, we focus on the construction of the game ecosystem to power the sustainable development of the industry.  
+In addition, the team actively participates in the construction of the underlying services and provides key support for various services.  
 
-我们也是先进技术的探索者, 我们致力于探索新技术的新应用, 并推动其落地.  
-我们也致力于游戏生态的建设, 为游戏的可持续发展提供推力.  
-团队也是底层服务的贡献者, 为一切服务提供不可或缺的力量.  
+# Get Involved
+Tencent Group(QQ): 980562548  
+Mail: dr@der.kim  
+Discord: [Join Channle](https://discord.gg/vzxN35kK8V)  
 
-# 
+---
 Sakura~  
-~~同时也是最可爱的~~
-
-# Join
-Tencent Group: 980562548  
-Mail: [dr@der.kim](mail://dr@der.kim)  
-Discord: [Join](https://discord.gg/vzxN35kK8V)  
+~~Also the cutest~~
