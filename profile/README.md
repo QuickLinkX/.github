@@ -10,6 +10,9 @@ Tencent Group(QQ): 980562548
 Mail: dr@der.kim  
 Discord: [Join Channle](https://discord.gg/vzxN35kK8V)  
 
+# Other
+[RELAY-CN](https://github.com/RELAY-CN)'s downstream team
+
 ---
 Sakura~  
 ~~Also the cutest~~
