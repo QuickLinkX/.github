@@ -9,7 +9,6 @@ In addition, the team actively participates in the construction of the underlyin
 **EN : Please honor the developers, without the hard work of others, there would be no convenience**  
 
 # Get Involved
-Tencent Group(QQ): 980562548  
 Mail: dr@der.kim  
 Discord: [Join Channle](https://discord.gg/vzxN35kK8V)  
 
